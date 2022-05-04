@@ -74,7 +74,7 @@ outline: none;
     color: white;
     cursor: pointer;
 }
-tobarImg{
+.topbarImg{
     width: 32px;
     height: 32px;
     border-radius: 50%;
