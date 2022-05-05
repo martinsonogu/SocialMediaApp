@@ -76,68 +76,68 @@ const Sidebar = () => {
             <img src="https://images.pexels.com/photos/2024901/pexels-photo-2024901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
              alt="" className="sidebarFriendImg" />
             <span className="sidebarFriendName">
-              Monroe Philips
+              Hadijat Musa
             </span>
           </li>
           <li className="sidebarFriend">
             <img src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
             alt="" className="sidebarFriendImg" />
             <span className="sidebarFriendName">
-              Monroe Philips
+              Musa Mensa
             </span>
           </li>
           <li className="sidebarFriend">
             <img src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
             alt="" className="sidebarFriendImg" />
             <span className="sidebarFriendName">
-              Monroe Philips
+              Monroe Marilyn
             </span>
           </li>
           <li className="sidebarFriend">
             <img src="https://images.pexels.com/photos/1205405/pexels-photo-1205405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" 
             className="sidebarFriendImg" />
             <span className="sidebarFriendName">
-              Monroe Philips
+              Monte Victor
             </span>
           </li>
           <li className="sidebarFriend">
             <img src="https://images.pexels.com/photos/1205405/pexels-photo-1205405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" 
             className="sidebarFriendImg" />
             <span className="sidebarFriendName">
-              Monroe Philips
+              Hepzibah Hassan
             </span>
           </li>
           <li className="sidebarFriend">
             <img src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
             alt="" className="sidebarFriendImg" />
             <span className="sidebarFriendName">
-              Monroe Philips
+              Usman Danfodio
             </span>
           </li>
           <li className="sidebarFriend">
             <img src="https://images.pexels.com/photos/1205405/pexels-photo-1205405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" 
             className="sidebarFriendImg" />
             <span className="sidebarFriendName">
-              Monroe Philips
+              Alikali Philips
             </span>
           </li>
           <li className="sidebarFriend">
             <img src="https://images.pexels.com/photos/1205405/pexels-photo-1205405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
             alt="" className="sidebarFriendImg" />
             <span className="sidebarFriendName">
-              Monroe Philips
+              Monroe James
             </span>
           </li>
           <li className="sidebarFriend">
             <img src="https://images.pexels.com/photos/2024901/pexels-photo-2024901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" className="sidebarFriendImg" />
             <span className="sidebarFriendName">
-              Monroe Philips
+              Peter Philips
             </span>
           </li>
           <li className="sidebarFriend">
             <img src="https://images.pexels.com/photos/2024901/pexels-photo-2024901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" className="sidebarFriendImg" />
             <span className="sidebarFriendName">
-              Monroe Philips
+              Mehiko Enegbani
             </span>
           </li>
         </ul>

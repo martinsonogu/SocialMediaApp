@@ -26,9 +26,10 @@
     display: flex;
     align-items: center;
     margin-bottom: 20px;
+    
 
 }
-.sidebarIcon{
+.sidebarListIcon{
     margin-right: 15px;
 }
 .sidebarbutton{
