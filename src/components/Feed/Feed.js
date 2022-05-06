@@ -2,6 +2,7 @@ import React from 'react';
 import Post from '../Post/Post';
 import Share from '../Share/Share';
 import "./Feed.css";
+import { Posts } from '../../dummydata';
 
 
 const Feed = () => {
@@ -9,13 +10,11 @@ const Feed = () => {
     <div className='feed'>
       <div className="feedWrapper">
         <Share/>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
+        {Posts.map(post => (
+          <Post key={post.id} post={post}/>
+        ))}
+        
+        
       </div>
     </div>
   )
